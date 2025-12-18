@@ -4,10 +4,12 @@
 - `var` is function-scoped and can be redeclared; `let` is block-scoped and cannot be redeclared in the same scope.  
 - `const` is block-scoped and must be initialized; its value cannot be reassigned.
 
+
 # 2) Difference between `map()`, `forEach()`, and `filter()`
 - `map()` returns a new array after applying a function to each element.  
 - `forEach()` executes a function on each element but returns `undefined`.  
 - `filter()` returns a new array with elements that pass a test condition.
+
 
 # 3) Arrow functions in ES6
 - Arrow functions provide a shorter syntax for writing functions: `(args) => expression`.  
