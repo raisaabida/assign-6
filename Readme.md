@@ -15,8 +15,10 @@
 - Arrow functions provide a shorter syntax for writing functions: `(args) => expression`.  
 - They do not have their own `this`, making them useful in certain contexts like callbacks.
 
+
 # 4) Destructuring assignment in ES6
 - Destructuring allows unpacking values from arrays or objects into separate variables:  
 ```javascript
+
 const [a, b] = [1, 2];
 const {name, age} = {name: "Alice", age: 25};
