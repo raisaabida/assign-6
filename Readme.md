@@ -9,11 +9,11 @@
 - `forEach()` executes a function on each element but returns `undefined`.  
 - `filter()` returns a new array with elements that pass a test condition.
 
-### 3) Arrow functions in ES6
+# 3) Arrow functions in ES6
 - Arrow functions provide a shorter syntax for writing functions: `(args) => expression`.  
 - They do not have their own `this`, making them useful in certain contexts like callbacks.
 
-### 4) Destructuring assignment in ES6
+# 4) Destructuring assignment in ES6
 - Destructuring allows unpacking values from arrays or objects into separate variables:  
 ```javascript
 const [a, b] = [1, 2];
