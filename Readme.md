@@ -1,10 +1,10 @@
 
 
-### 1) Difference between `var`, `let`, and `const`
+# 1) Difference between `var`, `let`, and `const`
 - `var` is function-scoped and can be redeclared; `let` is block-scoped and cannot be redeclared in the same scope.  
 - `const` is block-scoped and must be initialized; its value cannot be reassigned.
 
-### 2) Difference between `map()`, `forEach()`, and `filter()`
+# 2) Difference between `map()`, `forEach()`, and `filter()`
 - `map()` returns a new array after applying a function to each element.  
 - `forEach()` executes a function on each element but returns `undefined`.  
 - `filter()` returns a new array with elements that pass a test condition.
